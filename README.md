@@ -12,7 +12,7 @@ conda activate your_conda_name
 pip install -r requirements.txt
 ```
 
-## 3.基本训练
+## 3.使用一键脚本
 ```
-python src/train.py
+bash scripts/run.sh
 ```
